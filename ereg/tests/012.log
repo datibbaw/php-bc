@@ -1,0 +1,8 @@
+
+---- EXPECTED OUTPUT
+Deprecated: Function ereg_replace() is deprecated in %s on line %d
+abcdef\1ghi
+---- ACTUAL OUTPUT
+Deprecated: Function ereg_replace() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 135
+abcdefghi
+---- FAILED

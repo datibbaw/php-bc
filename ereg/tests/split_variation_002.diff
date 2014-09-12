@@ -1,0 +1,218 @@
+006+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+006- Error: 8192 - Function split() is deprecated, %s(74)
+013+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+013- Error: 8192 - Function split() is deprecated, %s(74)
+020+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+020- Error: 8192 - Function split() is deprecated, %s(74)
+027+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+027- Error: 8192 - Function split() is deprecated, %s(74)
+034+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+034- Error: 8192 - Function split() is deprecated, %s(74)
+041+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+041- Error: 8192 - Function split() is deprecated, %s(74)
+048+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+048- Error: 8192 - Function split() is deprecated, %s(74)
+055+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+055- Error: 8192 - Function split() is deprecated, %s(74)
+064+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+064- Error: 8192 - Function split() is deprecated, %s(74)
+072+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+073+ Error: 2 - preg_split() expects parameter 2 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+074+ bool(false)
+075+ Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_002.php(73)
+076+ 
+077+ Arg value Array 
+078+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+079+ Error: 2 - preg_split() expects parameter 2 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+080+ bool(false)
+081+ Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_002.php(73)
+082+ 
+083+ Arg value Array 
+084+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+085+ Error: 2 - preg_split() expects parameter 2 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+086+ bool(false)
+087+ Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_002.php(73)
+088+ 
+089+ Arg value Array 
+090+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+091+ Error: 2 - preg_split() expects parameter 2 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+092+ bool(false)
+072- Error: 8192 - Function split() is deprecated, %s(74)
+073- Error: 2 - split() expects parameter 2 to be string, array given, %s(74)
+074- NULL
+078- Error: 8192 - Function split() is deprecated, %s(74)
+079- Error: 2 - split() expects parameter 2 to be string, array given, %s(74)
+080- NULL
+081- Error: 8 - Array to string conversion, %ssplit_variation_002.php(%d)
+083- Arg value Array 
+084- Error: 8192 - Function split() is deprecated, %s(74)
+085- Error: 2 - split() expects parameter 2 to be string, array given, %s(74)
+086- NULL
+087- Error: 8 - Array to string conversion, %ssplit_variation_002.php(%d)
+088- 
+089- Arg value Array 
+096+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+097+ Error: 2 - preg_split() expects parameter 2 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+098+ bool(false)
+099+ 
+100+ Arg value  
+101+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+102+ array(1) {
+103+   [0]=>
+104+   string(0) ""
+105+ }
+106+ 
+107+ Arg value  
+108+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+109+ array(1) {
+110+   [0]=>
+111+   string(0) ""
+112+ }
+113+ 
+114+ Arg value 1 
+115+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+116+ array(1) {
+117+   [0]=>
+118+   string(1) "1"
+119+ }
+120+ 
+121+ Arg value  
+122+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+123+ array(1) {
+124+   [0]=>
+125+   string(0) ""
+126+ }
+127+ 
+128+ Arg value 1 
+129+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+130+ array(1) {
+131+   [0]=>
+132+   string(1) "1"
+133+ }
+134+ 
+135+ Arg value  
+136+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+137+ array(1) {
+138+   [0]=>
+139+   string(0) ""
+140+ }
+141+ 
+142+ Arg value  
+143+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+144+ array(1) {
+145+   [0]=>
+146+   string(0) ""
+147+ }
+148+ 
+149+ Arg value  
+150+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+151+ array(1) {
+152+   [0]=>
+153+   string(0) ""
+154+ }
+155+ Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_002.php(73)
+156+ 
+157+ Arg value  
+158+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+159+ Error: 2 - preg_split() expects parameter 2 to be string, object given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+160+ bool(false)
+161+ 
+162+ Arg value  
+163+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+164+ array(1) {
+165+   [0]=>
+166+   string(0) ""
+167+ }
+169+ Arg value  
+170+ Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+171+ array(1) {
+172+   [0]=>
+173+   string(0) ""
+174+ }
+175+ Done
+090- Error: 8192 - Function split() is deprecated, %s(74)
+091- Error: 2 - split() expects parameter 2 to be string, array given, %s(74)
+092- NULL
+093- Error: 8 - Array to string conversion, %ssplit_variation_002.php(%d)
+094- 
+095- Arg value Array 
+096- Error: 8192 - Function split() is deprecated, %s(74)
+097- Error: 2 - split() expects parameter 2 to be string, array given, %s(74)
+098- NULL
+099- 
+100- Arg value  
+101- Error: 8192 - Function split() is deprecated, %s(74)
+102- array(1) {
+103-   [0]=>
+104-   string(0) ""
+105- }
+106- 
+107- Arg value  
+108- Error: 8192 - Function split() is deprecated, %s(74)
+109- array(1) {
+110-   [0]=>
+111-   string(0) ""
+112- }
+113- 
+114- Arg value 1 
+115- Error: 8192 - Function split() is deprecated, %s(74)
+116- array(1) {
+117-   [0]=>
+118-   string(1) "1"
+119- }
+120- 
+121- Arg value  
+122- Error: 8192 - Function split() is deprecated, %s(74)
+123- array(1) {
+124-   [0]=>
+125-   string(0) ""
+126- }
+127- 
+128- Arg value 1 
+129- Error: 8192 - Function split() is deprecated, %s(74)
+130- array(1) {
+131-   [0]=>
+132-   string(1) "1"
+133- }
+134- 
+135- Arg value  
+136- Error: 8192 - Function split() is deprecated, %s(74)
+137- array(1) {
+138-   [0]=>
+139-   string(0) ""
+140- }
+141- 
+142- Arg value  
+143- Error: 8192 - Function split() is deprecated, %s(74)
+144- array(1) {
+145-   [0]=>
+146-   string(0) ""
+147- }
+148- 
+149- Arg value  
+150- Error: 8192 - Function split() is deprecated, %s(74)
+151- array(1) {
+152-   [0]=>
+153-   string(0) ""
+154- }
+155- Error: 4096 - Object of class stdClass could not be converted to string, %s(73)
+156- 
+157- Arg value  
+158- Error: 8192 - Function split() is deprecated, %s(74)
+159- Error: 2 - split() expects parameter 2 to be string, object given, %s(74)
+160- NULL
+161- 
+162- Arg value  
+163- Error: 8192 - Function split() is deprecated, %s(74)
+164- array(1) {
+165-   [0]=>
+166-   string(0) ""
+167- }
+168- 
+169- Arg value  
+170- Error: 8192 - Function split() is deprecated, %s(74)
+171- array(1) {
+172-   [0]=>
+173-   string(0) ""
+174- }
+175- Done

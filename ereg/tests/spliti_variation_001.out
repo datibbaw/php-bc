@@ -1,0 +1,321 @@
+*** Testing spliti() : usage variations ***
+Error: 8 - Undefined variable: undefined_var, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(64)
+Error: 8 - Undefined variable: unset_var, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(67)
+
+Arg value 0 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+
+Arg value 1 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) " a "
+  [2]=>
+  string(7) " Array "
+  [3]=>
+  string(3) " c "
+}
+
+Arg value 12345 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+
+Arg value -2345 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+
+Arg value 10.5 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+
+Arg value -10.5 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+
+Arg value 101234567000 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+
+Arg value 1.07654321E-9 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+
+Arg value 0.5 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(16) "1 a 1 Array 1 c "
+}
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(73)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(73)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(73)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(73)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(73)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value 1 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) " a "
+  [2]=>
+  string(7) " Array "
+  [3]=>
+  string(3) " c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value 1 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) " a "
+  [2]=>
+  string(7) " Array "
+  [3]=>
+  string(3) " c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_001.php(73)
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/ereg.php(46)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) " "
+  [3]=>
+  string(1) "a"
+  [4]=>
+  string(13) " 1 Array 1 c "
+}
+Done

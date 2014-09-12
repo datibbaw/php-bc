@@ -1,0 +1,175 @@
+*** Testing split() : usage variations ***
+
+Arg value 10.5 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(5) {
+  [0]=>
+  string(1) "1"
+  [1]=>
+  string(1) "2"
+  [2]=>
+  string(1) "3"
+  [3]=>
+  string(1) "4"
+  [4]=>
+  string(1) "5"
+}
+
+Arg value -10.5 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1.07654321E-9 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(5) {
+  [0]=>
+  string(1) "1"
+  [1]=>
+  string(1) "2"
+  [2]=>
+  string(1) "3"
+  [3]=>
+  string(1) "4"
+  [4]=>
+  string(1) "5"
+}
+
+Arg value 0.5 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(5) {
+  [0]=>
+  string(1) "1"
+  [1]=>
+  string(1) "2"
+  [2]=>
+  string(1) "3"
+  [3]=>
+  string(1) "4"
+  [4]=>
+  string(1) "5"
+}
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+bool(false)
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value string 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value string 
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/tests/split_variation_003.php(72)
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+Error: 8 - Object of class stdClass could not be converted to int, /Users/tjerk/Documents/php-bc/ereg/ereg.php(175)
+Error: 2 - preg_split() expects parameter 3 to be long, object given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(179)
+bool(false)
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function split() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(173)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+Done

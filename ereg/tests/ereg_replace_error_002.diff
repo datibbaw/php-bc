@@ -1,0 +1,56 @@
+004+ string(71) "helloshelloohellomhelloehello helloshellothellorhelloihellonhelloghello"
+005- Warning: ereg_replace(): REG_EMPTY in %s on line %d
+006+ Deprecated: Function ereg_replace() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 135
+007+ 
+008+ Warning: preg_replace(): Compilation failed: missing ) at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+010- Warning: ereg_replace(): REG_EPAREN in %s on line %d
+013+ Warning: preg_replace(): Compilation failed: missing terminating ] for character class at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+015- Warning: ereg_replace(): REG_EBRACK in %s on line %d
+018+ Warning: preg_replace(): Compilation failed: missing ) at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+020- Warning: ereg_replace(): REG_EPAREN in %s on line %d
+023+ Warning: preg_replace(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+025- Warning: ereg_replace(): REG_BADRPT in %s on line %d
+028+ Warning: preg_replace(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+030- Warning: ereg_replace(): REG_BADRPT in %s on line %d
+033+ Warning: preg_replace(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+035- Warning: ereg_replace(): REG_BADRPT in %s on line %d
+038+ Warning: preg_replace(): Compilation failed: nothing to repeat at offset 1 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+040- Warning: ereg_replace(): REG_BADRPT in %s on line %d
+041- bool(false)
+042+ string(11) "some string"
+044+ Deprecated: Function ereg_replace() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 135
+045+ string(71) "helloshelloohellomhelloehello helloshellothellorhelloihellonhelloghello"
+046+ 
+047+ Deprecated: Function ereg_replace() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 135
+048+ string(71) "helloshelloohellomhelloehello helloshellothellorhelloihellonhelloghello"
+045- Warning: ereg_replace(): REG_BADBR in %s on line %d
+050- Warning: ereg_replace(): REG_EMPTY in %s on line %d
+052+ Warning: preg_replace(): Compilation failed: numbers out of order in {} quantifier at offset 5 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+055- Warning: ereg_replace(): REG_EMPTY in %s on line %d
+056+ string(11) "somd string"
+057- 
+058+ Deprecated: Function ereg_replace() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 135
+059+ 
+060+ Warning: preg_replace(): No ending delimiter '/' found in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+065+ Warning: preg_replace(): Compilation failed: range out of order in character class at offset 4 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 140
+067+ Done
+058- Deprecated: Function ereg_replace() is deprecated in %s on line %d
+059- 
+060- Warning: ereg_replace(): REG_BADBR in %s on line %d
+061- bool(false)
+062- 
+063- Deprecated: Function ereg_replace() is deprecated in %s on line %d
+064- 
+065- Warning: ereg_replace(): REG_ERANGE in %s on line %d
+066- bool(false)
+067- 
+068- Deprecated: Function ereg_replace() is deprecated in %s on line %d
+069- 
+070- Warning: ereg_replace(): REG_EESCAPE in %s on line %d
+071- bool(false)
+072- 
+073- Deprecated: Function ereg_replace() is deprecated in %s on line %d
+074- 
+075- Warning: ereg_replace(): REG_ERANGE in %s on line %d
+076- bool(false)
+077- Done

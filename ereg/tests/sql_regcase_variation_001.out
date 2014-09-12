@@ -1,0 +1,116 @@
+*** Testing sql_regcase() : usage variations ***
+Error: 8 - Undefined variable: undefined_var, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(62)
+Error: 8 - Undefined variable: unset_var, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(65)
+
+Arg value 0 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 1 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 12345 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value -2345 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 10.5 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value -10.5 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 101234567000 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 1.07654321E-9 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 0.5 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(71)
+
+Arg value Array 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+Error: 2 - strlen() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(211)
+string(0) ""
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(71)
+
+Arg value Array 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+Error: 2 - strlen() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(211)
+string(0) ""
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(71)
+
+Arg value Array 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+Error: 2 - strlen() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(211)
+string(0) ""
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(71)
+
+Arg value Array 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+Error: 2 - strlen() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(211)
+string(0) ""
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(71)
+
+Arg value Array 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+Error: 2 - strlen() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(211)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 1 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value 1 
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/tests/sql_regcase_variation_001.php(71)
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+Error: 2 - strlen() expects parameter 1 to be string, object given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(211)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+
+Arg value  
+Error: 16384 - Function sql_regcase() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(209)
+string(0) ""
+Done

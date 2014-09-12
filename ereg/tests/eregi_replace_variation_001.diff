@@ -1,0 +1,177 @@
+006+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+007+ string(8) "original"
+006- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+007- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+008- bool(false)
+010+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+011- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+014+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+015- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+018+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+019- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+022+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+023- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+026+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+027- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+030+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+031- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+034+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+035+ string(8) "original"
+035- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+036- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+037- bool(false)
+038+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+039+ string(8) "original"
+040+ Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/eregi_replace_variation_001.php(73)
+041+ 
+042+ Arg value Array 
+043+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+044+ Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+045+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+046+ Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/eregi_replace_variation_001.php(73)
+047+ 
+048+ Arg value Array 
+049+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+050+ Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+051+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+052+ Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/eregi_replace_variation_001.php(73)
+053+ 
+054+ Arg value Array 
+055+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+056+ Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+057+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+058+ Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/eregi_replace_variation_001.php(73)
+059+ 
+060+ Arg value Array 
+061+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+062+ Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+063+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+040- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+041- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+042- bool(false)
+046- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+047- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+048- bool(false)
+049- Error: 8 - Array to string conversion, %seregi_replace_variation_001.php(%d)
+051- Arg value Array 
+052- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+053- string(8) "original"
+054- Error: 8 - Array to string conversion, %seregi_replace_variation_001.php(%d)
+067+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+068+ Error: 2 - addcslashes() expects parameter 1 to be string, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(49)
+069+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+070+ 
+071+ Arg value  
+072+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+073+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+074+ 
+075+ Arg value  
+076+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+077+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+078+ 
+079+ Arg value 1 
+080+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+081+ string(8) "original"
+082+ 
+083+ Arg value  
+084+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+085+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+086+ 
+087+ Arg value 1 
+088+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+089+ string(8) "original"
+090+ 
+091+ Arg value  
+092+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+093+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+094+ 
+095+ Arg value  
+096+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+097+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+098+ 
+099+ Arg value  
+100+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+101+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+102+ Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/tests/eregi_replace_variation_001.php(73)
+103+ 
+104+ Arg value  
+105+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+106+ Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/ereg.php(46)
+107+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+108+ 
+109+ Arg value  
+110+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+111+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+113+ Arg value  
+114+ Error: 16384 - Function eregi_replace() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(154)
+115+ string(35) "newonewrnewinewgnewinewnnewanewlnew"
+116+ Done
+055- 
+056- Arg value Array 
+057- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+058- string(8) "original"
+059- Error: 8 - Array to string conversion, %seregi_replace_variation_001.php(%d)
+060- 
+061- Arg value Array 
+062- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+063- string(8) "original"
+064- Error: 8 - Array to string conversion, %seregi_replace_variation_001.php(%d)
+065- 
+066- Arg value Array 
+067- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+068- string(8) "original"
+069- 
+070- Arg value  
+071- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+072- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+073- bool(false)
+074- 
+075- Arg value  
+076- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+077- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+078- bool(false)
+079- 
+080- Arg value 1 
+081- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+082- string(8) "original"
+083- 
+084- Arg value  
+085- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+086- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+087- bool(false)
+088- 
+089- Arg value 1 
+090- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+091- string(8) "original"
+092- 
+093- Arg value  
+094- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+095- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+096- bool(false)
+097- 
+098- Arg value  
+099- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+100- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+101- bool(false)
+102- 
+103- Arg value  
+104- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+105- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+106- bool(false)
+107- Error: 4096 - Object of class stdClass could not be converted to string, %s(73)
+108- 
+109- Arg value  
+110- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+111- Error: 8 - Object of class stdClass could not be converted to int, %s(74)
+112- string(8) "original"
+113- 
+114- Arg value  
+115- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+116- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+117- bool(false)
+118- 
+119- Arg value  
+120- Error: 8192 - Function eregi_replace() is deprecated, %s(74)
+121- Error: 2 - eregi_replace(): REG_EMPTY, %s(74)
+122- bool(false)
+123- Done

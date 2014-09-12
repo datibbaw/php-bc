@@ -1,0 +1,58 @@
+004+ int(1)
+005- Warning: ereg(): REG_EMPTY in %s on line %d
+006+ Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+007+ 
+008+ Warning: preg_match(): Compilation failed: missing ) at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+010- Warning: ereg(): REG_EPAREN in %s on line %d
+013+ Warning: preg_match(): Compilation failed: missing terminating ] for character class at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+015- Warning: ereg(): REG_EBRACK in %s on line %d
+018+ Warning: preg_match(): Compilation failed: missing ) at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+020- Warning: ereg(): REG_EPAREN in %s on line %d
+023+ Warning: preg_match(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+025- Warning: ereg(): REG_BADRPT in %s on line %d
+028+ Warning: preg_match(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+030- Warning: ereg(): REG_BADRPT in %s on line %d
+033+ Warning: preg_match(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+035- Warning: ereg(): REG_BADRPT in %s on line %d
+038+ Warning: preg_match(): Compilation failed: nothing to repeat at offset 1 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+040- Warning: ereg(): REG_BADRPT in %s on line %d
+041- bool(false)
+042+ bool(false)
+044+ Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+045+ int(1)
+046+ 
+047+ Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+048+ int(1)
+045- Warning: ereg(): REG_BADBR in %s on line %d
+050- Warning: ereg(): REG_EMPTY in %s on line %d
+052+ Warning: preg_match(): Compilation failed: numbers out of order in {} quantifier at offset 5 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+055- Warning: ereg(): REG_EMPTY in %s on line %d
+056+ bool(false)
+057- 
+058- Deprecated: Function ereg() is deprecated in %s on line %d
+058+ Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+059+ 
+060+ Warning: preg_match(): No ending delimiter '/' found in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+065+ Warning: preg_match(): Compilation failed: range out of order in character class at offset 4 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+067+ string(8) "original"
+068+ Done
+059- 
+060- Warning: ereg(): REG_BADBR in %s on line %d
+061- bool(false)
+062- 
+063- Deprecated: Function ereg() is deprecated in %s on line %d
+064- 
+065- Warning: ereg(): REG_ERANGE in %s on line %d
+066- bool(false)
+067- 
+068- Deprecated: Function ereg() is deprecated in %s on line %d
+069- 
+070- Warning: ereg(): REG_EESCAPE in %s on line %d
+071- bool(false)
+072- 
+073- Deprecated: Function ereg() is deprecated in %s on line %d
+074- 
+075- Warning: ereg(): REG_ERANGE in %s on line %d
+076- bool(false)
+077- string(8) "original"
+078- Done

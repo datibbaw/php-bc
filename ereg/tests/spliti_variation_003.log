@@ -1,0 +1,329 @@
+
+---- EXPECTED OUTPUT
+*** Testing spliti() : usage variations ***
+
+Arg value 10.5 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(5) {
+  [0]=>
+  string(1) "1"
+  [1]=>
+  string(1) "2"
+  [2]=>
+  string(1) "3"
+  [3]=>
+  string(1) "4"
+  [4]=>
+  string(1) "5"
+}
+
+Arg value -10.5 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1.07654321E-9 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 0.5 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+Error: 8 - Array to string conversion, %sspliti_variation_003.php(%d)
+
+Arg value Array 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, array given, %s(73)
+NULL
+Error: 8 - Array to string conversion, %sspliti_variation_003.php(%d)
+
+Arg value Array 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, array given, %s(73)
+NULL
+Error: 8 - Array to string conversion, %sspliti_variation_003.php(%d)
+
+Arg value Array 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, array given, %s(73)
+NULL
+Error: 8 - Array to string conversion, %sspliti_variation_003.php(%d)
+
+Arg value Array 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, array given, %s(73)
+NULL
+Error: 8 - Array to string conversion, %sspliti_variation_003.php(%d)
+
+Arg value Array 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, array given, %s(73)
+NULL
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, string given, %s(73)
+NULL
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, string given, %s(73)
+NULL
+
+Arg value string 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, string given, %s(73)
+NULL
+
+Arg value string 
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, string given, %s(73)
+NULL
+Error: 4096 - Object of class stdClass could not be converted to string, %s(72)
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+Error: 2 - spliti() expects parameter 3 to be long, object given, %s(73)
+NULL
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 8192 - Function spliti() is deprecated, %s(73)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+Done
+---- ACTUAL OUTPUT
+*** Testing spliti() : usage variations ***
+
+Arg value 10.5 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(1) "1"
+  [1]=>
+  string(1) "2"
+  [2]=>
+  string(1) "3"
+  [3]=>
+  string(1) "4"
+  [4]=>
+  string(1) "5"
+}
+
+Arg value -10.5 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1.07654321E-9 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(1) "1"
+  [1]=>
+  string(1) "2"
+  [2]=>
+  string(1) "3"
+  [3]=>
+  string(1) "4"
+  [4]=>
+  string(1) "5"
+}
+
+Arg value 0.5 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(5) {
+  [0]=>
+  string(1) "1"
+  [1]=>
+  string(1) "2"
+  [2]=>
+  string(1) "3"
+  [3]=>
+  string(1) "4"
+  [4]=>
+  string(1) "5"
+}
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(198)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(198)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(198)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(198)
+bool(false)
+Error: 8 - Array to string conversion, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_003.php(72)
+
+Arg value Array 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 2 - preg_split() expects parameter 3 to be long, array given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(198)
+bool(false)
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value 1 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value string 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value string 
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+Error: 4096 - Object of class stdClass could not be converted to string, /Users/tjerk/Documents/php-bc/ereg/tests/spliti_variation_003.php(72)
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+Error: 8 - Object of class stdClass could not be converted to int, /Users/tjerk/Documents/php-bc/ereg/ereg.php(194)
+Error: 2 - preg_split() expects parameter 3 to be long, object given, /Users/tjerk/Documents/php-bc/ereg/ereg.php(198)
+bool(false)
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+
+Arg value  
+Error: 16384 - Function spliti() is deprecated, /Users/tjerk/Documents/php-bc/ereg/ereg.php(192)
+array(1) {
+  [0]=>
+  string(9) "1 2 3 4 5"
+}
+Done
+---- FAILED

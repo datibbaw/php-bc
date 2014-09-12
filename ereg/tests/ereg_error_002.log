@@ -1,0 +1,150 @@
+
+---- EXPECTED OUTPUT
+*** Testing ereg() : error conditions ***
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_EMPTY in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_EPAREN in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_EBRACK in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_EPAREN in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_BADRPT in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_BADRPT in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_BADRPT in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_BADRPT in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_BADBR in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_EMPTY in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_EMPTY in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_BADBR in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_ERANGE in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_EESCAPE in %s on line %d
+bool(false)
+
+Deprecated: Function ereg() is deprecated in %s on line %d
+
+Warning: ereg(): REG_ERANGE in %s on line %d
+bool(false)
+string(8) "original"
+Done
+---- ACTUAL OUTPUT
+*** Testing ereg() : error conditions ***
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+int(1)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: missing ) at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: missing terminating ] for character class at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: missing ) at offset 3 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: nothing to repeat at offset 0 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: nothing to repeat at offset 1 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+int(1)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+int(1)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: numbers out of order in {} quantifier at offset 5 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): No ending delimiter '/' found in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+
+Deprecated: Function ereg() is deprecated in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 81
+
+Warning: preg_match(): Compilation failed: range out of order in character class at offset 4 in /Users/tjerk/Documents/php-bc/ereg/ereg.php on line 83
+bool(false)
+string(8) "original"
+Done
+---- FAILED

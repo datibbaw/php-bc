@@ -1,0 +1,78 @@
+*** Testing spliti() : error conditions ***
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_EMPTY in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_EPAREN in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_EBRACK in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_EPAREN in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_BADRPT in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_BADRPT in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_BADRPT in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti() expects parameter 3 to be long, string given in %s on line %d
+NULL
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_BADBR in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_EMPTY in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_EMPTY in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_BADBR in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_ERANGE in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti(): REG_EESCAPE in %s on line %d
+bool(false)
+
+Deprecated: Function spliti() is deprecated in %s on line %d
+
+Warning: spliti() expects parameter 3 to be long, string given in %s on line %d
+NULL
+string(8) "original"
+Done
