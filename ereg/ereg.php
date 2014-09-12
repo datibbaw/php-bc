@@ -134,7 +134,10 @@ if (!extension_loaded('ereg')) {
     {
         trigger_error("Function " . __FUNCTION__ . "() is deprecated", E_USER_DEPRECATED);
 
-        if (($res = preg_replace(ereg_to_pcre($pattern), $replacement, $string)) === null) {
+		$pattern = ereg_to_pcre($pattern);
+		$replacement = strtr($replacement, ['\\\\' => '\\\\\\\\']);
+
+        if (($res = preg_replace($pattern, $replacement, $string)) === null) {
             return false;
         }
 
@@ -153,7 +156,10 @@ if (!extension_loaded('ereg')) {
     {
         trigger_error("Function " . __FUNCTION__ . "() is deprecated", E_USER_DEPRECATED);
 
-        if (($res = preg_replace(ereg_to_pcre($pattern, 'i'), $replacement, $string)) === null) {
+		$pattern = ereg_to_pcre($pattern, 'i');
+		$replacement = strtr($replacement, ['\\\\' => '\\\\\\\\']);
+
+        if (($res = preg_replace($pattern, $replacement, $string)) === null) {
             return false;
         }
 
